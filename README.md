@@ -1,7 +1,7 @@
 # Tasks2Master
 Tasks2Master is a practice and learn repository intended to help beginners to master different technologies by completing a list of tasks set at different levels. 
 
-The solutions to the problems in this repository have been posted seperately at [SolvingTasks2Master](../solvingTasks2Master) 
+The solutions to the problems in this repository have been posted seperately at [SolvingTasks2Master](https://github.com/aswinshenoy/solvingTasks2Master) 
 
 ## Topics 
 0. [Problem Solving & Algorithms](/competitive) - Script to solve problems with specific constraints and get it checked, and improve your programming skills. 
