@@ -3,7 +3,7 @@ Tasks2Master is a practice and learn repository intended to help beginners to ma
 
 The solutions to the problems in this repository have been posted seperately at [SolvingTasks2Master](https://github.com/aswinshenoy/solvingTasks2Master) 
 
-**TASKS: 0 | TOPICS: 6**
+**TASKS: 1 | TOPICS: 6**
 
 ## Topics 
 0. [Setting Up Learning Environment](https://github.com/aswinshenoy/Tasks2Master/tree/master/environment) - Basic tasks to be done to setup your learning journey, from dual-booting ubuntu to effectively googling. 
